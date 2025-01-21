@@ -1,0 +1,521 @@
+CRITICAL - 2024-11-08 21:41:34 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: POST, Route: register]
+in SYSTEMPATH\Database\Database.php on line 143.
+ 1 SYSTEMPATH\Database\Database.php(61): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\AuthController.php(15): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:41:46 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: POST, Route: register]
+in SYSTEMPATH\Database\Database.php on line 143.
+ 1 SYSTEMPATH\Database\Database.php(61): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\AuthController.php(15): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:41:49 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: POST, Route: register]
+in SYSTEMPATH\Database\Database.php on line 143.
+ 1 SYSTEMPATH\Database\Database.php(61): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\AuthController.php(15): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:42:04 --> Error: Undefined constant "CodeIgniter\Database\MySQLi\MYSQLI_STORE_RESULT"
+[Method: POST, Route: register]
+in SYSTEMPATH\Database\Database.php on line 143.
+ 1 SYSTEMPATH\Database\Database.php(61): CodeIgniter\Database\Database->initDriver()
+ 2 SYSTEMPATH\Database\Config.php(84): CodeIgniter\Database\Database->load()
+ 3 SYSTEMPATH\Model.php(155): CodeIgniter\Database\Config::connect()
+ 4 APPPATH\Controllers\AuthController.php(15): CodeIgniter\Model->__construct()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 8 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+11 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:45:53 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: register]
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 APPPATH\Controllers\AuthController.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:45:56 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: register]
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 APPPATH\Controllers\AuthController.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:48:33 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:48:45 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:49:16 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:49:17 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:49:27 --> Error: Class "Firebase\JWT\JWT" not found
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 72.
+ 1 APPPATH\Controllers\AuthController.php(56): App\Controllers\AuthController->generateJwt()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:49:30 --> Error: Class "Firebase\JWT\JWT" not found
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 72.
+ 1 APPPATH\Controllers\AuthController.php(56): App\Controllers\AuthController->generateJwt()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:50:11 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:50:58 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:51:08 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:53:04 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:53:24 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:53:25 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:54:10 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:54:20 --> Error: Call to undefined function App\Controllers\respond()
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:56:36 --> Error: Call to undefined function App\Controllers\respond()
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:57:24 --> Error: Call to undefined function App\Controllers\respond()
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:58:46 --> ErrorException: Undefined array key "email"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 49.
+ 1 APPPATH\Controllers\AuthController.php(49): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:58:49 --> Error: Call to undefined function App\Controllers\respond()
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:59:15 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 51.
+ 1 APPPATH\Controllers\AuthController.php(51): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 21:59:57 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 54.
+ 1 APPPATH\Controllers\AuthController.php(54): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+ERROR - 2024-11-08 22:01:32 --> Email or password not provided
+CRITICAL - 2024-11-08 22:01:37 --> Error: Class "Firebase\JWT\JWT" not found
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 83.
+ 1 APPPATH\Controllers\AuthController.php(65): App\Controllers\AuthController->generateJwt()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:02:33 --> Error: Class "Firebase\JWT\JWT" not found
+[Method: POST, Route: login]
+in APPPATH\Controllers\AuthController.php on line 83.
+ 1 APPPATH\Controllers\AuthController.php(65): App\Controllers\AuthController->generateJwt()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:03:12 --> ArgumentCountError: Too few arguments to function Firebase\JWT\JWT::encode(), 2 passed in C:\Users\emist\WebstormProjects\fajny\backend\app\Controllers\AuthController.php on line 83 and at least 3 expected
+[Method: POST, Route: login]
+in VENDORPATH\firebase\php-jwt\src\JWT.php on line 199.
+ 1 APPPATH\Controllers\AuthController.php(83): Firebase\JWT\JWT::encode()
+ 2 APPPATH\Controllers\AuthController.php(65): App\Controllers\AuthController->generateJwt()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->login()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:07:04 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:09:36 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:10:26 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:10:44 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:11:09 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:11:15 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:14:07 --> Error: Firebase\JWT\JWT::decode(): Argument #3 ($headers) could not be passed by reference
+[Method: POST, Route: refresh-token]
+in APPPATH\Controllers\AuthController.php on line 96.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->refreshToken()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:32:51 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: register]
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 APPPATH\Controllers\AuthController.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:32:53 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: register]
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 APPPATH\Controllers\AuthController.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 22:33:42 --> ErrorException: Undefined array key "password"
+[Method: POST, Route: register]
+in APPPATH\Controllers\AuthController.php on line 36.
+ 1 APPPATH\Controllers\AuthController.php(36): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+ERROR - 2024-11-08 23:18:12 --> Invalid email or password
+CRITICAL - 2024-11-08 23:33:25 --> ErrorException: Undefined variable $input
+[Method: POST, Route: register]
+in APPPATH\Controllers\AuthController.php on line 18.
+ 1 APPPATH\Controllers\AuthController.php(18): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 23:34:21 --> Register input: {"{\"email\":\"2@1_com\",\"username\":\"2\",\"password\":\"12345678\",\"avatar\":{}}":""}
+CRITICAL - 2024-11-08 23:36:19 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}
+CRITICAL - 2024-11-08 23:36:19 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}
+CRITICAL - 2024-11-08 23:37:33 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}
+CRITICAL - 2024-11-08 23:37:42 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}
+CRITICAL - 2024-11-08 23:38:45 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:39:41 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:39:41 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:39:43 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:39:56 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:40:03 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:40:05 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:40:44 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:41:07 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:41:09 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:41:10 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:41:11 --> Register input: {"email":"2@1.com","username":"2","password":"12345678","avatar":[]}, Avatar: null
+CRITICAL - 2024-11-08 23:50:51 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\AuthController.php(14): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 23:51:13 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\AuthController.php(14): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 23:52:15 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\AuthController.php(14): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 23:52:28 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\AuthController.php(14): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-08 23:52:38 --> CodeIgniter\HTTP\Exceptions\HTTPException: Failed to parse JSON string. Error: Syntax error
+[Method: POST, Route: register]
+in SYSTEMPATH\HTTP\IncomingRequest.php on line 537.
+ 1 SYSTEMPATH\HTTP\IncomingRequest.php(537): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidJSON()
+ 2 APPPATH\Controllers\AuthController.php(14): CodeIgniter\HTTP\IncomingRequest->getJSON()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')

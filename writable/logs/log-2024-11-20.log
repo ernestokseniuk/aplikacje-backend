@@ -1,0 +1,296 @@
+CRITICAL - 2024-11-20 07:28:14 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:28:15 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:28:15 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:28:15 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:28:15 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:28:15 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:28:15 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:28:15 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:28:15 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:28:30 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:28:30 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:28:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:29:18 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:29:18 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:29:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:29:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:29:21 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:29:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:29:21 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:29:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:29:21 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:29:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:29:21 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:27 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:30:27 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:33 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:30:34 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:30:34 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:34 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:30:34 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:34 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:30:34 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:35 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:30:35 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:35 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:30:58 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:30:58 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:30:58 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:31:08 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:08 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:11 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:31:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:11 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:11 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:12 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:12 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:12 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:12 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-20 07:31:32 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:32 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:32 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:32 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:32 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:32 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:31:32 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:31:32 --> Decoded token: {"iat":1732087693,"exp":1732123693,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-20 07:33:50 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673d90ddbd130.png
+CRITICAL - 2024-11-20 07:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:33:51 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:33:51 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:33:51 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:33:52 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:33:52 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:34:06 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:34:06 --> uruchamiam create
+CRITICAL - 2024-11-20 07:34:06 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:34:06 --> User from token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:34:06 --> Project ID after insert: 129
+CRITICAL - 2024-11-20 07:34:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673d90ddbd130.png
+CRITICAL - 2024-11-20 07:34:10 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673d90ddbd130.png
+CRITICAL - 2024-11-20 07:34:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:34:11 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:34:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:34:11 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:34:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:34:11 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:34:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:34:11 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:37:45 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673d90ddbd130.png
+CRITICAL - 2024-11-20 07:37:46 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:37:46 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:37:46 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:37:46 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:37:46 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:37:46 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 07:37:46 --> AuthFilter::before
+CRITICAL - 2024-11-20 07:37:46 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 08:06:43 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673d90ddbd130.png
+CRITICAL - 2024-11-20 08:06:43 --> AuthFilter::before
+CRITICAL - 2024-11-20 08:06:43 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 08:06:43 --> AuthFilter::before
+CRITICAL - 2024-11-20 08:06:43 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 08:06:43 --> AuthFilter::before
+CRITICAL - 2024-11-20 08:06:43 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 08:06:43 --> AuthFilter::before
+CRITICAL - 2024-11-20 08:06:43 --> Decoded token: {"iat":1732088030,"exp":1732124030,"user_id":25,"username":"user12345"}
+CRITICAL - 2024-11-20 11:30:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:30:08 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:30:09 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:30:09 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:30:09 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:30:09 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:30:09 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:30:09 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:30:09 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:30:20 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:30:20 --> uruchamiam create
+CRITICAL - 2024-11-20 11:30:20 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:30:20 --> User from token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:30:20 --> Project ID after insert: 130
+CRITICAL - 2024-11-20 11:30:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:31:30 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:31:30 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:31:43 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:31:43 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:00 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:32:00 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:05 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:05 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:05 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:32:50 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:50 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:53 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:32:53 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:53 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:54 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:54 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:54 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:54 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:54 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:54 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:56 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:32:56 --> uruchamiam create
+CRITICAL - 2024-11-20 11:32:56 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:56 --> User from token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:32:56 --> Project ID after insert: 131
+CRITICAL - 2024-11-20 11:32:57 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:33:18 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:18 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:21 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:33:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:21 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:21 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:21 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:21 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:26 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:26 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:26 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:33:37 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:33:38 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:38 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:38 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:38 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:38 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:38 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:38 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:38 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:47 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:47 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:47 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:33:49 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:49 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:51 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:51 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:51 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:51 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:33:51 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:33:51 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:00 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:36:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:01 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:01 --> Decoded token: {"iat":1732102207,"exp":1732138207,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:36:20 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:20 --> Decoded token: {"iat":1732102580,"exp":1732138580,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:20 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:20 --> Decoded token: {"iat":1732102580,"exp":1732138580,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:21 --> Decoded token: {"iat":1732102580,"exp":1732138580,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:36:21 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:36:21 --> Decoded token: {"iat":1732102580,"exp":1732138580,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:44:08 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:08 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:09 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:09 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:09 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:09 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:09 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:09 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:11 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:44:13 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:13 --> uruchamiam create
+CRITICAL - 2024-11-20 11:44:13 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:13 --> User from token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:13 --> Project ID after insert: 132
+CRITICAL - 2024-11-20 11:44:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:44:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:44:45 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:44:56 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:56 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:44:59 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:44:59 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:00 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:00 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:07 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:45:11 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:11 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:20 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:20 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:45:27 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:45:27 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:27 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:27 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:27 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:27 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:27 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:27 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:27 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:30 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:30 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:45:33 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:33 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:35 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:45:35 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:35 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:35 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:35 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:35 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:35 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:35 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:35 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:38 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:45:38 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:45:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:47:41 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:47:41 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:41 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:41 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:41 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:41 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:41 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:41 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:41 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:41 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:41 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:46 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:46 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:48 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:47:48 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:48 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:49 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:49 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:49 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:49 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:47:49 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:47:49 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:48:02 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:48:02 --> uruchamiam create
+CRITICAL - 2024-11-20 11:48:02 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:48:02 --> User from token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:48:02 --> Project ID after insert: 133
+CRITICAL - 2024-11-20 11:48:03 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:48:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-20 11:48:06 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:48:06 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:48:06 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:48:06 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:48:06 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:48:06 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-20 11:48:06 --> AuthFilter::before
+CRITICAL - 2024-11-20 11:48:07 --> Decoded token: {"iat":1732103048,"exp":1732139048,"user_id":26,"username":"konradnowak123"}

@@ -1,0 +1,1722 @@
+CRITICAL - 2024-11-22 11:45:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 11:45:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:33 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 11:45:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 11:45:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 11:45:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 11:45:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 11:45:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:36:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:36:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:36:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:36:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:36:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:36:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:36:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:36:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:36:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:38:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:38:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:38:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:38:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:40:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:40:22 --> uruchamiam create
+CRITICAL - 2024-11-22 12:40:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:40:22 --> User from token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:40:22 --> Project ID after insert: 134
+CRITICAL - 2024-11-22 12:40:22 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:42:33 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:42:33 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:46:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:46:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:46:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:46:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:48:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:48:12 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:48:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:48:23 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:48:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:48:44 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:08 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:28 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:28 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:40 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:44 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:49:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:49:48 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:03 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:06 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:50:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:41 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:41 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:50:48 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:50:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:49 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:49 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:49 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:49 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:50 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:50 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:50:50 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:50:52 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:50:56 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:50:56 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:05 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:11 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:12 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:12 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:12 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:12 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:13 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:13 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:16 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:19 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:28 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:51:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:51:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:51:34 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:52:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:20 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:22 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:52:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:52:32 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:52:32 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:52:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:35 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:43 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:43 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:52:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:52:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:20 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:41 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:53:47 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:53:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:47 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:47 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:47 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:47 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:48 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:49 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:53:52 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:53:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:53:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:53:54 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:54:01 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:54:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:54:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:54:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:54:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:54:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:54:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:54:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:54:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:54:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:54:03 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:54:03 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:57:00 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 12:57:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:57:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:57:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:57:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:57:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:57:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:57:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:57:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:57:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:57:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 12:57:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 12:57:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:00:16 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:00:16 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:00:16 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:00:16 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:00:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:00:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:00:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:00:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:40 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:40 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:02:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:02:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:04:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:04:14 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:04:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:04:14 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:04:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:04:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:04:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:04:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:04:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:04:19 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:04:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:04:19 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:06:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:06:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:06:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:06:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:07:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:07:30 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:07:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:07:30 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:03 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:09:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:03 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:03 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:03 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:03 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:06 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:06 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:09:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:06 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:06 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:09:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:30 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:31 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:31 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:09:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:09:31 --> ParseError: syntax error, unexpected token "->", expecting ")"
+[Method: POST, Route: project/show-all]
+in APPPATH\Controllers\ProjectController.php on line 197.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:10:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:10:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:10:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:10:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:10:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:10:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:10:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:10:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:10:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:10:27 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:11:21 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:21 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:21 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:21 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:23 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:23 --> ErrorException: Undefined variable $json
+[Method: POST, Route: project/share/134]
+in APPPATH\Controllers\ProjectController.php on line 203.
+ 1 APPPATH\Controllers\ProjectController.php(203): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->setShareProject()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:11:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:23 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:51 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:51 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:11:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:11:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:07 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:12:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:12:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:12:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:14:26 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:14:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:14:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:14:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:14:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:14:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:14:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:14:27 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:14:27 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:14:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:14:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:14:34 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:14:34 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:13 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:13 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:13 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:13 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:16 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:16 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:16 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:16 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:17 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:19 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:19 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:19 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:23 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:23 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:23 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:27 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:27 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:27 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:27 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:27 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:27 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:28 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:28 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:28 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:28 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:28 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:28 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:35 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:35 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:15:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:15:35 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:02 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:06 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:06 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:06 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:08 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:08 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:09 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:09 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:10 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:10 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:13 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:13 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:18 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:18 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:18 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:18 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:18 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:29 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:33 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:37 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:40 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:40 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:41 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:44 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:44 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:49 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:51 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:51 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:51 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:51 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:51 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:55 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:55 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:55 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:17:57 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:57 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:59 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:17:59 --> uruchamiam create
+CRITICAL - 2024-11-22 13:17:59 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:59 --> User from token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:17:59 --> Project ID after insert: 135
+CRITICAL - 2024-11-22 13:18:00 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:18:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:04 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:07 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:08 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:08 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:12 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:12 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:18:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:14 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:22 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:18:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:22 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:24 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:18:27 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:27 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:18:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:18:41 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:34:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:34:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:34:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:34:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:34:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:43:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:49:54 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:49:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:49:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:49:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:49:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:49:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:49:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:49:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:49:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:49:54 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:51:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:29 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:29 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:32 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:32 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:51:47 --> uruchamiam create
+CRITICAL - 2024-11-22 13:51:47 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:47 --> User from token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:51:47 --> Project ID after insert: 136
+CRITICAL - 2024-11-22 13:51:47 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:52:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:52:06 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:52:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:52:10 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:52:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:52:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:52:51 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:53:37 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:53:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:53:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:39 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:42 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:42 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:42 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:42 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:42 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:42 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:44 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:53:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:53:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:05 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 13:55:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:05 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:06 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:06 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:13 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:13 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:13 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 13:55:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:14 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:14 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:52 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:52 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:52 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 13:55:52 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:52 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:52 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:52 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:53 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 13:55:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:53 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:54 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 13:55:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:54 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:58 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:58 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:59 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 13:55:59 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:59 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:59 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:59 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:59 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:55:59 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:55:59 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 13:56:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:56:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:56:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:56:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:56:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:56:00 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:56:00 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 13:56:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:56:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:56:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:56:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:58:33 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:58:33 --> ParseError: Unclosed '[' on line 105 does not match ')'
+[Method: POST, Route: project/show/133]
+in APPPATH\Controllers\ProjectController.php on line 110.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:58:34 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 13:58:36 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:58:36 --> ParseError: Unclosed '[' on line 105 does not match ')'
+[Method: POST, Route: project/update]
+in APPPATH\Controllers\ProjectController.php on line 110.
+ 1 VENDORPATH\composer\ClassLoader.php(427): Composer\Autoload\{closure}()
+ 2 [internal function]: Composer\Autoload\ClassLoader->loadClass()
+ 3 SYSTEMPATH\CodeIgniter.php(887): class_exists()
+ 4 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 6 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 9 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 13:59:33 --> AuthFilter::before
+CRITICAL - 2024-11-22 13:59:33 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 13:59:33 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 13:59:33","public":"false"}
+CRITICAL - 2024-11-22 14:02:17 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:02:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:20 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:20 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 14:02:20","public":0}
+CRITICAL - 2024-11-22 14:02:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:30 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 14:02:30","public":0}
+CRITICAL - 2024-11-22 14:02:37 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:37 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:37 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 14:02:37","public":0}
+CRITICAL - 2024-11-22 14:02:43 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:02:45 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:02:46 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:02:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:46 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:46 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:46 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:46 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:48 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:48 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 14:02:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:48 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:48 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:50 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:50 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:50 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:02:53 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:02:54 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:02:54 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 14:02:54","public":0}
+CRITICAL - 2024-11-22 14:05:56 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:05:56 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:05:56 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 14:05:56","public":0}
+CRITICAL - 2024-11-22 14:06:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:06:18 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:06:18 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Fjany\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"123\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":770.5,\\\"y\\\":974.5}]\"","updated_at":"2024-11-22 14:06:18","public":true}
+CRITICAL - 2024-11-22 14:07:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:07:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:07:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:25 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:26 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:29 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:07:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:31 --> uruchamiam create
+CRITICAL - 2024-11-22 14:07:31 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:31 --> User from token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:31 --> Project ID after insert: 137
+CRITICAL - 2024-11-22 14:07:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:07:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:48 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:48 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Kolejny\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"255\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":-106.34635416666669,\\\"y\\\":521.125}]\"","updated_at":"2024-11-22 14:07:48","public":false}
+CRITICAL - 2024-11-22 14:07:56 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:56 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:56 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Kolejny\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"255\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":-106.34635416666669,\\\"y\\\":521.125}]\"","updated_at":"2024-11-22 14:07:56","public":false}
+CRITICAL - 2024-11-22 14:07:57 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:07:57 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:07:57 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Kolejny\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"255\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":-106.34635416666669,\\\"y\\\":521.125}]\"","updated_at":"2024-11-22 14:07:57","public":true}
+CRITICAL - 2024-11-22 14:08:01 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:08:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:08:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:08:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:08:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:08:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:08:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:08:01 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:08:01 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:40:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:40:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:40:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:40:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:40:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:40:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:40:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:40:30 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:40:30 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:49:02 --> ErrorException: Undefined array key "user_id"
+[Method: GET, Route: projects/public/konradnowak123]
+in APPPATH\Controllers\ProjectController.php on line 329.
+ 1 APPPATH\Controllers\ProjectController.php(329): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 14:54:45 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:54:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:54:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:54:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:54:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:54:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:54:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:54:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 14:54:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 14:54:56 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:55:43 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:56:40 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 14:56:42 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:45:27 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:45:55 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:45:55 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:45:55 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:46:01 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:46:01 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:46:01 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:46:14 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:46:14 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:46:14 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:46:55 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:46:55 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:46:55 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:47:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:47:13 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:47:13 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:47:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:47:25 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:47:25 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:47:53 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:47:53 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:47:53 --> Error: Call to undefined function App\Controllers\getUsernameFromId()
+[Method: POST, Route: projects/public]
+in APPPATH\Controllers\ProjectController.php on line 347.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 4 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 16:48:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:48:29 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:51:15 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:51:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:15 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:38 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 16:51:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:38 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:51:38 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:51:49 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:51:53 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:55:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:55:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:55:44 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:55:44 --> Project data: {"user_id":"26","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Kolejny\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"255\\\",\\\"color\\\":\\\"#ff0000\\\",\\\"x\\\":-106.34635416666669,\\\"y\\\":521.125}]\"","updated_at":"2024-11-22 16:55:44","public":true}
+CRITICAL - 2024-11-22 16:55:45 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-22 16:55:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:55:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:55:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:55:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:55:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:55:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:55:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:55:45 --> Decoded token: {"iat":1732275933,"exp":1732311933,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-22 16:56:02 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:02 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:03 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:03 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:03 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:10 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:10 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:10 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:10 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:10 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:15 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:17 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:21 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:28 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:29 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:56:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:56:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 16:56:35 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:57:11 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:57:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 16:57:43 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:57:58 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:58:39 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:58:40 --> AuthFilter::before
+CRITICAL - 2024-11-22 16:58:42 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:00:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:00:27 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:01:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:01:41 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:01:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:01:41 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:02:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:02:07 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:02:07 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:02:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:02:07 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:02:14 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:02:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:02:18 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:02:18 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:02:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:02:18 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:02:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:02:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:02:22 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:02:23 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:02:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:02:23 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:12 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:15 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:15 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:15 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:15 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:16 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:18 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:18 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:18 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:18 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:23 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:26 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:26 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:26 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:32 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:36 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:41 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:03:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:41 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:41 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:41 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:41 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:41 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:45 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:45 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:45 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:45 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:45 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:46 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:46 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:46 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:46 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:46 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:46 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:46 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:47 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:47 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:47 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:47 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:47 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:47 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:47 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:48 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:48 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:48 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:48 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:49 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:49 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:49 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:49 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:51 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:51 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:51 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:51 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:51 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:52 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:52 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:52 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:03:52 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:52 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:52 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:03:52 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:03:53 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:04:02 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:04:02 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:02 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:03 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:03 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:03 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:03 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:04 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:04 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:04 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:04 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:04 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:04 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:04 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:04 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:04 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:05 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:05 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:05 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:05 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:07 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:07 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:07 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:07 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:07 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:08 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:08 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:08 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:08 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:08 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:11 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:11 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:11 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:11 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:11 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:11 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:11 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:11 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:11 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:11 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:11 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:11 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:12 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:12 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:12 --> Project data: {"public":false}
+CRITICAL - 2024-11-22 17:04:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:12 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:12 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:12 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:21 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:04:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:04:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:04:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:04:26 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:04:28 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:18 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:19 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:19 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:21 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:22 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:22 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:22 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:26 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:27 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:28 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:28 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:28 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:28 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:28 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:30 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:05:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:31 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:05:31 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:05:57 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:09:44 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:09:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:44 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:44 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:44 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:44 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:44 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:48 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:48 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:09:48 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:48 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:49 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:09:49 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:09:49 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:11:35 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:11:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:11:35 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:11:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:11:35 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:11:35 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:11:35 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:11:36 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:11:36 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:12:53 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:12:58 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:13:10 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:14:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:14:16 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:14:16 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:14:16 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:14:18 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:14:18 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:14:18 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:16:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:16:06 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:16:06 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:17:10 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:17:10 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:17:10 --> ErrorException: Trying to access array offset on null
+[Method: POST, Route: projects/public/konradnowak1234]
+in APPPATH\Controllers\ProjectController.php on line 335.
+ 1 APPPATH\Controllers\ProjectController.php(335): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\ProjectController->getPublicProjects()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-22 17:17:17 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:17:19 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:17:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:17:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:20 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:20 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:20 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:20 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:20 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:22 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:22 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:17:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:22 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:22 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:22 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:23 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:23 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 17:17:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:23 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 17:17:23 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 17:17:29 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 17:17:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:29:59 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:29:59 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:29:59 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:00 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:00 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:00 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:00 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:05 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:05 --> Project data: {"public":true}
+CRITICAL - 2024-11-22 19:30:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:05 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:05 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:05 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:14 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:14 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:14 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:14 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:17 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:17 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:17 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:17 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:19 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:19 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:19 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:19 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:21 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:21 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:21 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:21 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:21 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:21 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:26 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:26 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:30:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:30:26 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:34:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:24 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:24 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:25 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:34:25 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:25 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:26 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:34:26 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:34:32 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:34:35 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:07 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:09 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:16 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:35:23 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:35:23 --> AuthFilter::before
+CRITICAL - 2024-11-22 19:35:23 --> Decoded token: {"iat":1732294561,"exp":1732330561,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-22 19:35:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:26 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:56 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:35:59 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:36:03 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:36:05 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:36:21 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:36:23 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 19:37:34 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:20:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:23:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:23:11 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:23:28 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:23:49 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:24:17 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:32:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:32:14 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:32:24 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:32:32 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 20:34:47 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-22 21:02:05 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png

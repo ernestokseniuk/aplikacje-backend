@@ -1,0 +1,73 @@
+CRITICAL - 2024-11-09 00:22:15 --> TypeError: log_message(): Argument #2 ($message) must be of type string, array given, called in C:\Users\emist\WebstormProjects\fajny\backend\app\Controllers\AuthController.php on line 17
+[Method: POST, Route: register]
+in SYSTEMPATH\Common.php on line 772.
+ 1 APPPATH\Controllers\AuthController.php(17): log_message()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-09 00:22:16 --> TypeError: log_message(): Argument #2 ($message) must be of type string, array given, called in C:\Users\emist\WebstormProjects\fajny\backend\app\Controllers\AuthController.php on line 17
+[Method: POST, Route: register]
+in SYSTEMPATH\Common.php on line 772.
+ 1 APPPATH\Controllers\AuthController.php(17): log_message()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-09 00:22:21 --> TypeError: log_message(): Argument #2 ($message) must be of type string, array given, called in C:\Users\emist\WebstormProjects\fajny\backend\app\Controllers\AuthController.php on line 17
+[Method: POST, Route: register]
+in SYSTEMPATH\Common.php on line 772.
+ 1 APPPATH\Controllers\AuthController.php(17): log_message()
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AuthController->register()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-09 23:28:37 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672f44ce5c6a4.png
+CRITICAL - 2024-11-09 23:35:03 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:35:55 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:35:56 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:37:38 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:40:33 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:41:12 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:41:13 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:41:44 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:42:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:42:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:43:55 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:44:29 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:44:52 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:46:34 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:47:40 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:48:20 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:53:08 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-09 23:59:38 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "672ff0deac0b6.png""
+[Method: GET, Route: avatar/672ff0deac0b6.png%22]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')
+CRITICAL - 2024-11-09 23:59:41 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "672ff0deac0b6.png""
+[Method: GET, Route: avatar/672ff0deac0b6.png%22]
+in SYSTEMPATH\Router\Router.php on line 737.
+ 1 SYSTEMPATH\Router\Router.php(204): CodeIgniter\Router\Router->checkDisallowedChars()
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle()
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt()
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest()
+ 5 SYSTEMPATH\Boot.php(325): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter()
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb()
+ 8 SYSTEMPATH\rewrite.php(44): require_once('C:\\Users\\emist\\WebstormProjects\\fajny\\backend\\public\\index.php')

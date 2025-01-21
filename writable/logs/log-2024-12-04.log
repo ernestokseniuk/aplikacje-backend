@@ -1,0 +1,214 @@
+CRITICAL - 2024-12-04 10:30:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:30:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:30:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:30:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:06 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:06 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:07 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:07 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:07 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:07 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:07 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:07 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:07 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:10 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:10 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:10 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:10 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:12 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:17 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:17 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:17 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:17 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:17 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:17 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:17 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:17 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:17 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:34 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:34 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:34 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:36 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:36 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:36 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:36 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:36 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:36 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:42 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:43 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:43 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:43 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:43 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:43 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:43 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:43 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:43 --> Decoded token: {"iat":1733308266,"exp":1733344266,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-12-04 10:31:46 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:49 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/674203a2ed124.png
+CRITICAL - 2024-12-04 10:31:49 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:49 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:31:50 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-12-04 10:35:31 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/uploads
+CRITICAL - 2024-12-04 10:35:31 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:35:31 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:35:31 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:35:31 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:35:31 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:35:31 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:35:31 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:35:31 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:35:46 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/uploads
+CRITICAL - 2024-12-04 10:35:51 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:35:51 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:37:29 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:37:29 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:37:29 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:37:29 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:37:29 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:37:29 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:37:30 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:37:30 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:15 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:15 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:15 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:15 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:15 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:15 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:15 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:15 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:23 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:23 --> uruchamiam create
+CRITICAL - 2024-12-04 10:38:23 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:23 --> User from token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:23 --> Project ID after insert: 157
+CRITICAL - 2024-12-04 10:38:27 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:27 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:27 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:27 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:31 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:31 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:31 --> Project data: {"user_id":"14","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"test\\\",\\\"font\\\":\\\"Arial\\\",\\\"size\\\":\\\"231\\\",\\\"color\\\":\\\"#f01414\\\",\\\"x\\\":481.33333333333337,\\\"y\\\":559.6666666666666}]\"","updated_at":"2024-12-04 10:38:31","public":false}
+CRITICAL - 2024-12-04 10:38:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:34 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:34 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:34 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:34 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:34 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:37 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:37 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:37 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:37 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:40 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:40 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:40 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:40 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:40 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:40 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:40 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:40 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:51 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:51 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:51 --> Description: Mam fajny opis
+CRITICAL - 2024-12-04 10:38:51 --> User: {"id":14,"username":"emistrz19","email":"emistrz19@gmail.com","password":"$2y$10$UW0vQ8ghNKTb7KQCBpTuB.dQXf5xAM4Bku5va2T\/jtM18Yv5GEGjG","avatar":"675030880895b.png","created_at":"2024-11-09 00:36:31","updated_at":"2024-11-09 00:36:31","description":"Mam fajny opis"}
+CRITICAL - 2024-12-04 10:38:52 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:52 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:52 --> Description: Mam fajny opis
+CRITICAL - 2024-12-04 10:38:52 --> User: {"id":14,"username":"emistrz19","email":"emistrz19@gmail.com","password":"$2y$10$UW0vQ8ghNKTb7KQCBpTuB.dQXf5xAM4Bku5va2T\/jtM18Yv5GEGjG","avatar":"675030880895b.png","created_at":"2024-11-09 00:36:31","updated_at":"2024-11-09 00:36:31","description":"Mam fajny opis"}
+CRITICAL - 2024-12-04 10:38:57 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:57 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:57 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:57 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:57 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:57 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:38:57 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:38:57 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:02 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:02 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:02 --> Project data: {"public":true}
+CRITICAL - 2024-12-04 10:39:02 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:02 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:02 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:02 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 10:39:07 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:07 --> AuthFilter::before
+CRITICAL - 2024-12-04 10:39:07 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/675030880895b.png
+CRITICAL - 2024-12-04 11:22:38 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:22:38 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:22:38 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:22:38 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:22:38 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:22:38 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:22:38 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:22:38 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:33 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:33 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:33 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:33 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:36 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:36 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:36 --> Project data: {"user_id":"14","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Ale plakat\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"125\\\",\\\"color\\\":\\\"#ffffff\\\",\\\"x\\\":137.34895833333331,\\\"y\\\":839.6536458333334}]\"","updated_at":"2024-12-04 11:25:36","public":false}
+CRITICAL - 2024-12-04 11:25:46 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:46 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:46 --> Project data: {"user_id":"14","title":"untitled","changes":"\"[{\\\"id\\\":0,\\\"text\\\":\\\"Ale plakat\\\",\\\"font\\\":\\\"Times New Roman\\\",\\\"size\\\":\\\"125\\\",\\\"color\\\":\\\"#ffffff\\\",\\\"x\\\":137.34895833333331,\\\"y\\\":839.6536458333334}]\"","updated_at":"2024-12-04 11:25:46","public":false}
+CRITICAL - 2024-12-04 11:25:51 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:51 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:51 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:51 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:51 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:51 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:52 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:52 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:56 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:56 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:56 --> Project data: {"public":true}
+CRITICAL - 2024-12-04 11:25:56 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:56 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:25:56 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:25:56 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:01 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:01 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:02 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:02 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:02 --> Project data: {"public":false}
+CRITICAL - 2024-12-04 11:26:02 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:02 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:02 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:02 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:14 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:14 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:14 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-12-04 11:26:23 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:23 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:23 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/675030880895b.png
+CRITICAL - 2024-12-04 11:26:43 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:43 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:43 --> Description: Mam jeszcze fajniejszy opis
+CRITICAL - 2024-12-04 11:26:43 --> User: {"id":14,"username":"emistrz19","email":"emistrz19@gmail.com","password":"$2y$10$UW0vQ8ghNKTb7KQCBpTuB.dQXf5xAM4Bku5va2T\/jtM18Yv5GEGjG","avatar":"675030880895b.png","created_at":"2024-11-09 00:36:31","updated_at":"2024-11-09 00:36:31","description":"Mam jeszcze fajniejszy opis"}
+CRITICAL - 2024-12-04 11:26:46 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:46 --> Decoded token: {"iat":1733308530,"exp":1733344530,"user_id":14,"username":"emistrz19"}
+CRITICAL - 2024-12-04 11:26:46 --> Description: Mam jeszcze fajniejszy opis
+CRITICAL - 2024-12-04 11:26:46 --> User: {"id":14,"username":"emistrz19","email":"emistrz19@gmail.com","password":"$2y$10$UW0vQ8ghNKTb7KQCBpTuB.dQXf5xAM4Bku5va2T\/jtM18Yv5GEGjG","avatar":"675030880895b.png","created_at":"2024-11-09 00:36:31","updated_at":"2024-11-09 00:36:31","description":"Mam jeszcze fajniejszy opis"}
+CRITICAL - 2024-12-04 11:26:48 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:48 --> AuthFilter::before
+CRITICAL - 2024-12-04 11:26:48 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/675030880895b.png

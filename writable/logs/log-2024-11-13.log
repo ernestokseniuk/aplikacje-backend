@@ -1,0 +1,30 @@
+CRITICAL - 2024-11-13 18:49:46 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-13 18:49:47 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:49:47 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:49:47 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:49:47 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:49:47 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:49:47 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:49:47 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:49:47 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:49:54 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:49:54 --> uruchamiam create
+CRITICAL - 2024-11-13 18:49:54 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:49:54 --> User from token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:49:54 --> Project ID after insert: 128
+CRITICAL - 2024-11-13 18:49:54 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-13 18:50:20 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:20 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:50:26 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:26 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:50:33 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:33 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:50:34 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/672ff0deac0b6.png
+CRITICAL - 2024-11-13 18:50:34 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:34 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:50:34 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:34 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:50:34 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:34 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}
+CRITICAL - 2024-11-13 18:50:34 --> AuthFilter::before
+CRITICAL - 2024-11-13 18:50:34 --> Decoded token: {"iat":1731523786,"exp":1731559786,"user_id":18,"username":"kupadupa"}

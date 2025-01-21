@@ -1,0 +1,137 @@
+ERROR - 2024-11-21 12:51:28 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+ERROR - 2024-11-21 12:52:44 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+ERROR - 2024-11-21 12:52:55 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+ERROR - 2024-11-21 12:54:22 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+ERROR - 2024-11-21 12:55:44 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+ERROR - 2024-11-21 12:56:06 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+ERROR - 2024-11-21 12:56:24 --> SQLite3Exception: table `projects` already exists in C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php:157
+Stack trace:
+#0 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\SQLite3\Connection.php(157): SQLite3->exec()
+#1 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(734): CodeIgniter\Database\SQLite3\Connection->execute()
+#2 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\BaseConnection.php(648): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\Forge.php(570): CodeIgniter\Database\BaseConnection->query()
+#4 C:\Users\emist\WebstormProjects\fajny\backend\app\Database\Migrations\2024-11-10-083327_CreateProjectsTable.php(58): CodeIgniter\Database\Forge->createTable()
+#5 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(867): App\Database\Migrations\CreateProjectsTable->up()
+#6 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Database\MigrationRunner.php(183): CodeIgniter\Database\MigrationRunner->migrate()
+#7 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Commands\Database\Migrate.php(85): CodeIgniter\Database\MigrationRunner->latest()
+#8 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Commands.php(70): CodeIgniter\Commands\Database\Migrate->run()
+#9 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\CLI\Console.php(48): CodeIgniter\CLI\Commands->run()
+#10 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(351): CodeIgniter\CLI\Console->run()
+#11 C:\Users\emist\WebstormProjects\fajny\backend\vendor\codeigniter4\framework\system\Boot.php(104): CodeIgniter\Boot::runCommand()
+#12 C:\Users\emist\WebstormProjects\fajny\backend\spark(84): CodeIgniter\Boot::bootSpark()
+#13 {main}
+CRITICAL - 2024-11-21 12:58:17 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-21 12:58:18 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:18 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:18 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:18 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:33 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-21 12:58:33 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:33 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 12:58:34 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:34 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 12:58:34 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:34 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 12:58:34 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:34 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 12:58:39 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:39 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 12:58:39 --> AvatarController::show: C:\Users\emist\WebstormProjects\fajny\backend\writable\/uploads/avatars/673dc83fbde0f.png
+CRITICAL - 2024-11-21 12:58:45 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:58:45 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 12:59:08 --> AuthFilter::before
+CRITICAL - 2024-11-21 12:59:08 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 13:04:15 --> AuthFilter::before
+CRITICAL - 2024-11-21 13:04:15 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
+CRITICAL - 2024-11-21 13:05:09 --> AuthFilter::before
+CRITICAL - 2024-11-21 13:05:09 --> Decoded token: {"iat":1732193912,"exp":1732229912,"user_id":26,"username":"konradnowak123"}
